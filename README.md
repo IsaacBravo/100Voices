@@ -11,12 +11,6 @@ Ophelia Watch \
 
 The website can be viewed [here!](https://100vop.org/)
 
-<div align="center" width="50%" height="50%">
-
- [![Demo CountPages alpha](img/100Vop_Header.png)](https://www.youtube.com/watch?v=VAoLY0YyuBY)
-
-</div>
- 
  <div id="header" align="center">
   <img src="img/100Vop_Logo.png" width="100"/>
 </div>
