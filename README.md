@@ -11,3 +11,25 @@ Ophelia Watch \
 
 The website can be viewed [here!](https://100vop.org/)
 
+## Global Map
+
+ 
+ <div id="header" align="center">
+  <img src="img/100Vop_Logo.png" width="100"/>
+</div>
+  
+  <div id="badges" align="center">
+  <a href="https://de.linkedin.com/company/100-voices-one-planet?original_referer=https%3A%2F%2Fwww.bing.com%2F">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCXkTT8TEpHLpzffJK-vFvmg/videos">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.instagram.com/100vop/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+     
+</div>
+  <div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsaacBravo&style=flat-square&color=blue" alt=""/>
+</div>
